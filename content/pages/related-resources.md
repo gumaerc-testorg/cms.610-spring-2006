@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Related Resources
+type: CourseSection
 uid: a202bd07-876b-8070-26f7-5b627aa2464f
 ---
 
@@ -67,7 +69,7 @@ Levine, Robert. "Technology; The Matrix Ever-Loaded: Online Game for the Committ
 
 [The Psychology Behind Games](http://www.gamasutra.com/features/20050426/hejdenberg_pfv.htm) - An interesting Gamasutra article this week on the subject.
 
-[Savage Pastimes](http://www.next-gen.biz/index.php?option=com_content&task=view&id=2205&Itemid=2&limit=1&limitstart=1) - Harold Schechter, a Professor of Literature at Queens College in New York, makes a compelling argument about the benefit of video games. Professor Schechter's thesis is that man is hard wired to be violent. As a result, we have a need to express our violent dispositions in culturally acceptable ways without doing harm and videogames supply that way. (from Next Generation Magazine 2/6/06)
+[Savage Pastimes](https://haroldschechter.com/books/savage-pastimes) - Harold Schechter, a Professor of Literature at Queens College in New York, makes a compelling argument about the benefit of video games. Professor Schechter's thesis is that man is hard wired to be violent. As a result, we have a need to express our violent dispositions in culturally acceptable ways without doing harm and videogames supply that way. (from Next Generation Magazine 2/6/06)
 
 [Transition Nightmare](http://www.next-gen.biz/index.php?option=com_content&task=view&id=2392&Itemid=2) - Hardware delays, console shortages and dull games have turned the promise of a smooth transition into a wasteland. Who is going to carry the can? NextGeneration's Editor, Colin Campbell, weighs in...
 
@@ -78,7 +80,7 @@ Useful Research Sites
 
 [Game Rankings](http://www.gamerankings.com/) - Offers consumer ratings.
 
-[Game Spot](http://www.gamespot.com/) - Offers news, reviews, hints, guides and forums covering all the top games. The platforms included in their content include GameCubeTM, Xbox®, Playstation® 2, DreamcastTM, Nintendo 64TM, Playstation®, Game Boy® Advance and Game Boy® Color as well as a separate section for PC games.
+[Game Spot](http://www.gamespot.com/) - Offers news, reviews, hints, guides and forums covering all the top games. The platforms included in their content include GameCube{{< sup "TM" >}}, Xbox®, Playstation® 2, Dreamcast{{< sup "TM" >}}, Nintendo 64{{< sup "TM" >}}, Playstation®, Game Boy® Advance and Game Boy® Color as well as a separate section for PC games.
 
 [GamePro](http://www.gamepro.de/) - Good general site covering all major platforms with discussion forums and cheats.
 

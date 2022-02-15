@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-610-media-industries-and-systems-spring-2006/522a75624003b23e8fbdbf33fd898eb0_cms-610s06-th.jpg
+file: /media/courses/cms-610-media-industries-and-systems-spring-2006/522a75624003b23e8fbdbf33fd898eb0_cms-610s06-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The course examines the interplay of art, science, and commerce shaping
@@ -9,7 +9,9 @@ image_metadata:
     (Photo courtesy of [Jon Jordan](http://www.flickr.com/photos/jontintinjordan/).)
   credit: ''
   image-alt: Playing with a handheld video game controller.
+learning_resource_types: []
 resourcetype: Image
 title: cms-610s06-th.jpg
+type: OCWImage
 uid: 522a7562-4003-b23e-8fbd-bf33fd898eb0
 ---
