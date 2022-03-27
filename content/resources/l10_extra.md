@@ -6,10 +6,11 @@ file: /media/courses/cms-610-media-industries-and-systems-spring-2006/c650fed0a4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f113fff8-3162-9f5b-7029-b6cab52916c4
 resourcetype: Document
 title: l10_extra.pdf
-type: OCWFile
 uid: c650fed0-a42e-4e25-3427-afc9282eda5f
 ---
