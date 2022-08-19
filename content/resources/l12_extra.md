@@ -6,6 +6,7 @@ file: /courses/cms-610-media-industries-and-systems-spring-2006/10f73981e839fad0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l12_extra.pdf
 uid: 10f73981-e839-fad0-6e8b-097089438350
 ---
 This resource contains a word on distribution, MMO on cable, and changing distribution methods.
-

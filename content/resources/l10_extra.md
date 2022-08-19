@@ -6,6 +6,7 @@ file: /courses/cms-610-media-industries-and-systems-spring-2006/c650fed0a42e4e25
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l10_extra.pdf
 uid: c650fed0-a42e-4e25-3427-afc9282eda5f
 ---
 This resource contains professor answers student questions that have been emailed over the week.
-
