@@ -24,7 +24,7 @@ There will be guest lectures by media experts intimately involved in the videoga
 
 Tentative guest lecturers include: Ernest Adams, Bob Bates, Seamus Blackley, Julian Lefay, Richard (Lord British) Garriott, Robert Garriott, Steve Meretzky, Matt Firor, George (Fatman) Sanger, Warren Spector and Johnny Wilson.
 
-Students are responsible for checking the [readings]({{< baseurl >}}/pages/readings) section for the most up-to-date listing of readings.
+Students are responsible for checking the {{% resource_link 91bb99df-f721-bc55-5020-fda71624b395 "readings" %}} section for the most up-to-date listing of readings.
 
 Course Requirements
 -------------------
@@ -97,7 +97,7 @@ Each student will participate as part of a design and development team that will
 
 Each student will choose to participate on one of the four or five chosen game proposals and help execute a plan for the original property and outline its development by each team member. Sales materials should include a description of the game, a graphic presentation and an account of how you propose to develop it across multiple media (PC, console, X-Box (hybrid), handhelds, posters, records, etc.). You should also have an idea of the most likely audience for your game and how to market it to different audiences as well. Each team should be prepared to lead a discussion of the overall business strategy for their product(s) and provide some comparison to other, similar games or genres. As part of your overall strategy, each team should have a plan to expand your user base by enabling users a more participatory relationship to the property. Your team should be prepared to deliver a thirty-minute presentation of your game, including gameplay, as well as strategies for the intended property which should include a range of support materials. Your materials might include: an interactive demo, a video, a graphic presentation, a Web site, story boards, graphic designs, logos, art, photos, advertising campaigns, posters, etc. Each Team Project, and the students contributing to that Team, will be judged on the basis of the product's overall quality, creativity and originality, your understanding of the core course concepts, the Team's technical competency and your grasp of the current business environment into which you would need to sell and support the product.
 
-More detailed instructions for the final project are available in the [projects]({{< baseurl >}}/pages/projects) section.
+More detailed instructions for the final project are available in the {{% resource_link bc6a42c3-cc65-3bef-6ff5-be3375e2ae7f "projects" %}} section.
 
 ### Class Participation
 

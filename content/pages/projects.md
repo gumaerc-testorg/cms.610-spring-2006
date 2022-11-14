@@ -7,7 +7,7 @@ title: Projects
 uid: bc6a42c3-cc65-3bef-6ff5-be3375e2ae7f
 ---
 
-This section contains detailed instructions for the course's final project in which each student was part of a design and development team that was responsible for developing a working presentation, business plan, and marketing plan for a videogame. (A more generalized overivew of the project is available in the [syllabus]({{< baseurl >}}/pages/syllabus).)
+This section contains detailed instructions for the course's final project in which each student was part of a design and development team that was responsible for developing a working presentation, business plan, and marketing plan for a videogame. (A more generalized overivew of the project is available in the {{% resource_link 6aba2358-9603-f0ea-7ff9-18258553162d "syllabus" %}}.)
 
 Project Description
 -------------------

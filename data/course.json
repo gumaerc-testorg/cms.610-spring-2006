@@ -23,7 +23,9 @@
   },
   "course_title": "Media Industries and Systems",
   "course_description": "This course examines the interplay of art, science, and commerce shaping the production, marketing, distribution, and consumption of contemporary media. It combines perspectives on media industries and systems with an awareness of the creative process, the audience, and trends shaping content. There will be invited discussions with industry experts in various subject areas. Class projects will encourage students to think through the challenges of producing media in an industry context. CMS.610 is for undergraduate credit, whereas CMS.922 is for graduate credit. Though the requirements for graduates are more stringent, the course is intended for both undergraduate and graduate students.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "CMS.922",
   "primary_course_number": "CMS.610",
   "course_image_thumbnail": {
@@ -34,6 +36,7 @@
     "Lecture Audio",
     "Lecture Notes"
   ],
-  "site_uid": "335b4ab4-463f-429a-84f2-9f4e7ddba464",
+  "site_uid": "5361399c-8048-43b7-8cb4-02c582b86d93",
+  "short_id": "cms.610-spring-2006",
   "title": "Course Metadata"
 }
