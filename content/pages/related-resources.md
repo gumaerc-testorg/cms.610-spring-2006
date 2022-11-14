@@ -1,18 +1,16 @@
 ---
 content_type: page
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: a202bd07-876b-8070-26f7-5b627aa2464f
 ---
-
-General
--------
+## General
 
 [Fighting Fear in the Digital Age](http://www.next-gen.biz/index.php?option=com_content&task=view&id=1969&Itemid=35) - A short article on how utility fees might solve a host of problems regarding copyrighted materials. Recently a severely restrictive and punitive copyright bill was submitted for a vote before French legislators. The result, however, was nothing short of a rather amazing turn of events that should give hope to all IP users.
 
-Links to Videogame Examples Mentioned In Class
-----------------------------------------------
+## Links to Videogame Examples Mentioned In Class
 
 [Halo 2™](https://store.xbox.com/en-US/Xbox-One/Games/Halo-Spartan-Assault/a3807603-9e22-48b2-8b75-c6bf36ddc511)
 
@@ -32,8 +30,7 @@ Links to Videogame Examples Mentioned In Class
 
 [Burnout™](https://www.ea.com/games/burnout)
 
-Miscellaneous Videogame Articles
---------------------------------
+## Miscellaneous Videogame Articles
 
 [Dirty Harry Debut for Videogame](http://news.bbc.co.uk/2/hi/entertainment/4295331.stm) - Actor Clint Eastwood is to reprise his most famous role - in a computer game version of Dirty Harry.
 
@@ -47,13 +44,13 @@ Miscellaneous Videogame Articles
 
 Tommy Tallarico Interview - Tommy Tallarico is a well known musician in the games industry and has been writing music for over 15 years. He currently hosts two TV shows on the gaming network G4. GameDAILY BIZ interviews Tommy who discusses his career, and where he thinks video game music is headed
 
-[A Star Wars Sequel (Except It's Not)](http://www.nytimes.com/glogin?URI=http://gk.nytimes.com/mem/gatekeeper.html&OQ=_rQ3D1Q26URIQ3DhttpQ3AQ2FQ2Fwww.nytimes.comQ2F2005Q2F04Q2F22Q2FartsQ2F22game.htmlQ26OQ51Q3D_rQ513D2Q5126thQ5126emcQ513DthQ5126orefQ513DsloginQ26OPQ3Da147720Q512FUX),UJkQ515B0VkkR_U_ppIUpQ513CU__UbVR0U__nbe)NfReo&OP=6171d934Q2FQ2Bd1kQ2Bh4i1MQ5BQ25Q2BQ24ixMPPhlQ2BP@Q7Bi1Q24i1Q5BQ2BbMi1Q5111P1@Q22Q24ix) - Interesting NYT article on Jade Empire and how it seems like a very well done Star Wars (except, of course, Bioware does not have a Lucas license...).
+A Star Wars Sequel (Except It's Not) - Interesting NYT article on Jade Empire and how it seems like a very well done Star Wars (except, of course, Bioware does not have a Lucas license…).
 
 Herold, Charles. "Game Theory; A Star Wars Sequel (Except It's Not)." _New York Times_, April 22, 2005.
 
-[The NPD Group Reports Annual 2004 U.S. Video Game Industry Retail Sales](http://www.npd.com/corpServlet?nextpage=corp_welcome.html);- The NPD Group provides global sales and marketing information. They combine consumer information with point-of-sale data collected from retailers and other distribution channels across a wide range of vertical markets, including apparel, appliances, automotive, beauty, cellular, consumer electronics, food and beverage, foodservice, footwear, housewares, imaging, information technology, movies, music, software, toys, travel, and video games.
+[The NPD Group Reports Annual 2004 U.S. Video Game Industry Retail Sales](http://www.npd.com/corpServlet?nextpage=corp_welcome.html) - The NPD Group provides global sales and marketing information. They combine consumer information with point-of-sale data collected from retailers and other distribution channels across a wide range of vertical markets, including apparel, appliances, automotive, beauty, cellular, consumer electronics, food and beverage, foodservice, footwear, housewares, imaging, information technology, movies, music, software, toys, travel, and video games.
 
-[Retro Redux-Atari Competition](http://www.nytimes.com/glogin?URI=http://gk.nytimes.com/mem/gatekeeper.html&OQ=_rQ3D1Q26URIQ3DhttpQ3AQ2FQ2Fwww.nytimes.comQ2F2005Q2F04Q2F06Q2FartsQ2FdesignQ2F06game.htmlQ26OQ51Q3D_rQ513D1Q5126thQ513DQ5126adxnnlQ513D1Q5126emcQ513DthQ5126adxnnlxQ513D1112785562-Zy05TeD9P84Fhqm2MevWJAQ26OPQ3D6b3cc5a5Q512FQ513A52AQ513A)nQ515EPXnnuQ5125Q513AQ5125Q5124Q5124vQ513AQ5124NQ513AQ5124VQ513AFXuPQ513A)2PdQ517C1Q513AQ5124VQ517CF,2Q517Ewu,!&OP=5b8d380aQ2FQ272Q24EQ27,ScQ24Q2AQ5EmQ27lcgQ2A..,fQ27.M3cQ24lcQ24Q5EQ27dQ2AcQ24_Q24Q24.Q24MTlcg) - It was all part of Retro Redux, a competition last weekend at the Parsons School of Design in Greenwich Village that gave nine teams of aspiring designers a mere 24 hours to create complete games based on the Atari 2600, the classic 1978 console that helped spawn iconic titles like "Asteroids," "Centipede" and "Pong."
+Retro Redux-Atari Competition - It was all part of Retro Redux, a competition last weekend at the Parsons School of Design in Greenwich Village that gave nine teams of aspiring designers a mere 24 hours to create complete games based on the Atari 2600, the classic 1978 console that helped spawn iconic titles like "Asteroids," "Centipede" and "Pong."
 
 Schiesel, Seth. "Retro Redux: When Yellow Blobs Ate Other Yellow Blobs." _New York Times_, April 6, 2005.
 
@@ -61,7 +58,7 @@ Schiesel, Seth. "Retro Redux: When Yellow Blobs Ate Other Yellow Blobs." _New Yo
 
 Richtel, Matt. "A New Reality In Video Games: Advertisements." _New York Times_, April 11, 2005.
 
-[The Matrix Online](http://www.nytimes.com/glogin?URI=http://gk.nytimes.com/mem/gatekeeper.html&OQ=_rQ3D1Q26URIQ3DhttpQ3AQ2FQ2Fwww.nytimes.comQ2F2005Q2F04Q2F25Q2FtechnologyQ2F25matrix.htmlQ26OQ51Q3D_rQ513D1Q5126thQ5126emcQ513DthQ26OPQ3D671979a5Q512FQ513AQ5151lTQ513Ap8GQ513EQ516088iIQ513AIKKfQ513AKQ5122Q513AIfQ513AilGdo8,8(6Q513AIf)Q515CiQ5160Q517ENQ5125di),&OP=26a61bf4Q2FYlABYnLGAWtdYQ5EGqWoonQ23Yo_RGAQ5EGAtYQ5CWGA!AAoA_HQ5EGq) - "The Matrix Online, from Warner Brothers Interactive Entertainment, is one of the boldest efforts yet to appeal to hardcore players like Ms. Carkner as well as to a wider audience. Massively multiplayer games, which are considered mainstream entertainment in Taiwan and South Korea, still represent a small fraction of the United States video game business. Unlike traditional video games, which have their roots in arcades, these games have more in common with role-playing pastimes like Dungeon & Dragons. "We certainly could be the kind of game that expands the market," said Jason Hall, senior vice president for Warner Brothers Interactive Entertainment, which co-publishes The Matrix with the Sega Corporation."
+The Matrix Online - "The Matrix Online, from Warner Brothers Interactive Entertainment, is one of the boldest efforts yet to appeal to hardcore players like Ms. Carkner as well as to a wider audience. Massively multiplayer games, which are considered mainstream entertainment in Taiwan and South Korea, still represent a small fraction of the United States video game business. Unlike traditional video games, which have their roots in arcades, these games have more in common with role-playing pastimes like Dungeon & Dragons. "We certainly could be the kind of game that expands the market," said Jason Hall, senior vice president for Warner Brothers Interactive Entertainment, which co-publishes The Matrix with the Sega Corporation."
 
 Levine, Robert. "Technology; The Matrix Ever-Loaded: Online Game for the Committed." _New York Times_, April 25, 2005.
 
@@ -71,10 +68,9 @@ Levine, Robert. "Technology; The Matrix Ever-Loaded: Online Game for the Committ
 
 [Savage Pastimes](https://haroldschechter.com/books/savage-pastimes) - Harold Schechter, a Professor of Literature at Queens College in New York, makes a compelling argument about the benefit of video games. Professor Schechter's thesis is that man is hard wired to be violent. As a result, we have a need to express our violent dispositions in culturally acceptable ways without doing harm and videogames supply that way. (from Next Generation Magazine 2/6/06)
 
-[Transition Nightmare](http://www.next-gen.biz/index.php?option=com_content&task=view&id=2392&Itemid=2) - Hardware delays, console shortages and dull games have turned the promise of a smooth transition into a wasteland. Who is going to carry the can? NextGeneration's Editor, Colin Campbell, weighs in...
+[Transition Nightmare](http://www.next-gen.biz/index.php?option=com_content&task=view&id=2392&Itemid=2) - Hardware delays, console shortages and dull games have turned the promise of a smooth transition into a wasteland. Who is going to carry the can? NextGeneration's Editor, Colin Campbell, weighs in…
 
-Useful Research Sites
----------------------
+## Useful Research Sites
 
 [Entertainment Software Association](http://www.theesa.com/) - The primary videogame industry association in Washington, DC. The ESA site has various studies and metrics on the industry that are free.
 
