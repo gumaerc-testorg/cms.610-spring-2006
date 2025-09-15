@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource talks about teams and working in those teams, key roles
   for the teams.
-file: /courses/cms-610-media-industries-and-systems-spring-2006/a177df0caf9f941394a5102587d2a5b8_l06_extra.pdf
+file: /ol-ocw-studio-app/courses/cms-610-media-industries-and-systems-spring-2006/a177df0caf9f941394a5102587d2a5b8_l06_extra.pdf
+file_size: 84136
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

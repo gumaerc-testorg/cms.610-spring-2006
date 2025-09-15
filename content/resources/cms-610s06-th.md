@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/cms-610-media-industries-and-systems-spring-2006/522a75624003b23e8fbdbf33fd898eb0_cms-610s06-th.jpg
+file: /ol-ocw-studio-app/courses/cms-610-media-industries-and-systems-spring-2006/522a75624003b23e8fbdbf33fd898eb0_cms-610s06-th.jpg
+file_size: 15263
 file_type: image/jpeg
 image_metadata:
   caption: The course examines the interplay of art, science, and commerce shaping

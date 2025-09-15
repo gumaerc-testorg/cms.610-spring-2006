@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains Prof. Christopher Weaver's words for concept development
   and the proposal process.
-file: /courses/cms-610-media-industries-and-systems-spring-2006/c6b453123eee1f5fbee163673feaa36b_l03_extra.pdf
+file: /ol-ocw-studio-app/courses/cms-610-media-industries-and-systems-spring-2006/c6b453123eee1f5fbee163673feaa36b_l03_extra.pdf
+file_size: 128675
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
