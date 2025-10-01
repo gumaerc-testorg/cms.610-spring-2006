@@ -7,7 +7,7 @@ title: Readings
 uid: 91bb99df-f721-bc55-5020-fda71624b395
 ---
 
-Some of these files are also available on [iTunes®](https://itunes.apple.com/us/itunes-u/id341597228).
+Some of these files are also available on {{% resource_link "b0feeb9f-3c1c-4e1f-ab2f-9e65dd1a725d" "iTunes®" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -35,11 +35,11 @@ READINGS
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262182409) Jenkins, Henry. "Games, the New Lively Art." In _Handbook of Computer Game Studies_. Edited by Joost Raessens and Jeffrey Goldstein. Cambridge, MA: MIT Press, 2005. ISBN: 9780262182409.
+{{% resource_link "3d4983db-4bbe-41cb-9913-afe925312831" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jenkins, Henry. "Games, the New Lively Art." In _Handbook of Computer Game Studies_. Edited by Joost Raessens and Jeffrey Goldstein. Cambridge, MA: MIT Press, 2005. ISBN: 9780262182409.
 
 Crawford, Chris. Chapters 1-4 in _Chris Crawford on Game Design_. Indianapolis, IN: New Riders, 2003, pp. 6-53. ISBN: 9780131460997.
 
-Reference: [The Dot Eaters: Video Game History 101](http://thedoteaters.com/).
+Reference: {{% resource_link "28d24f0e-12a8-46ae-98b7-4ec6e782209d" "The Dot Eaters: Video Game History 101" %}}.
 
 
 {{< tdclose >}}
@@ -59,11 +59,11 @@ Bates, Bob. "Concepts/Principles of Game Design." Chapters 1-2 in _Game Design: 
 
 ———. "Storytelling." Chapter 4 in _Game Design: The Art and Business of Creating Games_. Prima Tech's Game Development Series, ed. André LaMothe. Boston, MA: Premier Press, 2001, pp. 76-102. ISBN: 9780761531654.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631877) Murray, Janet. "A New Medium for Storytelling." Part I in _Hamlet on the Holodeck_. Cambridge, MA: MIT Press, 1998, pp. 13-65. ISBN: 9780262631877.
+{{% resource_link "fa10b55e-db9c-4083-ac6e-741a96c07492" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Murray, Janet. "A New Medium for Storytelling." Part I in _Hamlet on the Holodeck_. Cambridge, MA: MIT Press, 1998, pp. 13-65. ISBN: 9780262631877.
 
-Aarseth, Espen. "[Genre Trouble](https://www.semanticscholar.org/paper/Genre-trouble-%3A-narrativism-and-the-art-of-Aarseth/cad74907d43b3491d980474072a136632fe0ee18)." _First Person_, 2004.
+Aarseth, Espen. "{{% resource_link "8a785f91-7bcc-494d-86dc-b1a3a1bb549e" "Genre Trouble" %}}." _First Person_, 2004.
 
-Wolf, Mark J. P. "[Genre and the Video Game](http://www.robinlionheart.com/gamedev/genres.xhtml)." Chapter 6 in _The Medium of the Video Game_. Austin, TX: University of Texas Press, 2002. ISBN: 9780292791503.
+Wolf, Mark J. P. "{{% resource_link "11a911eb-b98c-42d9-a36c-9c21dab58ea4" "Genre and the Video Game" %}}." Chapter 6 in _The Medium of the Video Game_. Austin, TX: University of Texas Press, 2002. ISBN: 9780292791503.
 
 Demo: Videos of Game Genres.
 
@@ -139,15 +139,15 @@ Rollings, Andrew, and Ernest Adams. Chapter 4 in _Andrew Rollings and Ernest Ada
 
 Bates, Bob. "Managing Development." Chapter 11 in _Game Design: The Art and Business of Creating Games_. Prima Tech's Game Development Series, ed. André LaMothe. Boston, MA: Premier Press, 2001, pp. 48-74 and 220-238 \[reread\]. ISBN: 9780761531654.
 
-Guest Lecture: Steve Meretzky, one of the most respected writers and designers in the industry, Steve Meretzky has written Infocom™ games, including _The Hitchhiker's Guide to the Galaxy_ and is currently working with Paul Neurath on mobile games. For further reference, read his interviews with the [BBC](http://www.bbc.co.uk/radio4/hitchhikers/stevem.shtml) and [Gamasutra.com](http://www.gamasutra.com/php-bin/news_index.php?story=7017).
+Guest Lecture: Steve Meretzky, one of the most respected writers and designers in the industry, Steve Meretzky has written Infocom™ games, including _The Hitchhiker's Guide to the Galaxy_ and is currently working with Paul Neurath on mobile games. For further reference, read his interviews with the {{% resource_link "3631ed97-0f13-42e9-ba80-3e3bcafeb3c3" "BBC" %}} and {{% resource_link "4afb2dce-4691-44e7-b462-304cee2dfd5f" "Gamasutra.com" %}}.
 
 Hear his lecture about interactive storytelling: ([MP3 - 24.4MB](/ans7870/CMS/CMS.610/S06/OCW_CMS-610_2006-03-16_with_IP_SlateMono.mp3)). The following portions of audio were removed due to copyright restrictions:
 
-Sheldon, Lee. "[Prelude in a Fire-Lit Cave](http://www.amazon.com/gp/reader/1592003532/ref=sib_dp_pt/002-2497443-8587200)." In _Character Development and Storytelling for Games (Game Development Series)_. Boston, MA: Thomson Course Technology, 2004, p. 1. ISBN: 9781592003532.
+Sheldon, Lee. "{{% resource_link "37a1ae1c-aa91-4749-9797-8cc8dbe501fd" "Prelude in a Fire-Lit Cave" %}}." In _Character Development and Storytelling for Games (Game Development Series)_. Boston, MA: Thomson Course Technology, 2004, p. 1. ISBN: 9781592003532.
 
 Campbell, Joseph. Prologue, paragraph 3, in _The Hero with a Thousand Faces_. 2nd ed. Princeton, NJ: Princeton University Press, 1972. ISBN: 9780691017846.
 
-Card, Orson Scott. Excerpt p. 258, [middle of paragraph 3 to end of paragraph 5](http://www.amazon.com/gp/reader/0765308401/ref=sib_dp_srch_pop/002-2497443-8587200?v=search-inside&keywords=258) in "The Originist." In _Maps in a Mirror: The Short Fiction of Orson Scott Card_. New York, NY: Tom Doherty Associates, 2004, pp. 214-262. ISBN: 9780765308405.
+Card, Orson Scott. Excerpt p. 258, {{% resource_link "b3428e75-1339-478f-a8de-4462ec752b16" "middle of paragraph 3 to end of paragraph 5" %}} in "The Originist." In _Maps in a Mirror: The Short Fiction of Orson Scott Card_. New York, NY: Tom Doherty Associates, 2004, pp. 214-262. ISBN: 9780765308405.
 
 
 {{< tdclose >}}
@@ -177,9 +177,9 @@ Bates, Bob. "The Development Team." Chapter 8 in _Game Design: The Art and Busin
 
 Bates, Bob. "The Development Team." Chapter 19 in _Game Design: The Art and Business of Creating Games_. Prima Tech's Game Development Series, ed. André LaMothe. Boston, MA: Premier Press, 2001, pp. 182-202. ISBN: 9780761531654.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262691895) Stone, Allucquère Rosanne. "Cyberdammerung at the Atari Lab." Chapter 6 in _The War of Desire and Technology at the Close of the Mechanical Age_. Cambridge, MA: MIT Press, 1996, pp. 122-155. ISBN: 9780262691895.
+{{% resource_link "95c6be3b-b8da-4bf7-8da8-7585affce0d2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stone, Allucquère Rosanne. "Cyberdammerung at the Atari Lab." Chapter 6 in _The War of Desire and Technology at the Close of the Mechanical Age_. Cambridge, MA: MIT Press, 1996, pp. 122-155. ISBN: 9780262691895.
 
-Also review the following article: Jassin, Lloyd J. "[Working with Freelancers: What Every Publisher Should Know About the 'Work for Hire' Doctrine](http://copylaw.com/new_articles/wfh.html)." CopyLaw.com, 2000. Adapted from Jassin, Lloyd J., and Steven C. Schechter. _Copyright Permission and Libel Handbook: A Step-by-Step Guide for Writers, Editors, and Publishers_. New York, NY: Wiley, 1998. ISBN: 9780471146544.
+Also review the following article: Jassin, Lloyd J. "{{% resource_link "da63d783-96a9-407c-b872-eb3eec598109" "Working with Freelancers: What Every Publisher Should Know About the 'Work for Hire' Doctrine" %}}." CopyLaw.com, 2000. Adapted from Jassin, Lloyd J., and Steven C. Schechter. _Copyright Permission and Libel Handbook: A Step-by-Step Guide for Writers, Editors, and Publishers_. New York, NY: Wiley, 1998. ISBN: 9780471146544.
 
 
 {{< tdclose >}}

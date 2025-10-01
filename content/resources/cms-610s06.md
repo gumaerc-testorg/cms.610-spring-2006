@@ -7,7 +7,8 @@ file_type: image/jpeg
 image_metadata:
   caption: The course examines the interplay of art, science, and commerce shaping
     the production, marketing, distribution, and consumption of contemporary media.
-    (Photo courtesy of [Jon Jordan](http://www.flickr.com/photos/jontintinjordan/).)
+    (Photo courtesy of {{% resource_link "62cdaef6-386d-49a4-ac2b-2c1e7fc5de1b" "Jon
+    Jordan" %}}.)
   credit: ''
   image-alt: Playing with a handheld video game controller.
 learning_resource_types: []
